@@ -9,3 +9,6 @@ Thumbs.db
 
 # 忽略 Go build cache
 go.sum
+
+# runtime data
+data/
